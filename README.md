@@ -1,2 +1,2 @@
-# Data Structure & Algorithom
+# Data Structure & Algorithm
 Basic Data Structures &amp; Algorithms implemented in C.
